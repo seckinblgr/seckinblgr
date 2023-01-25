@@ -2,9 +2,8 @@
 
 ##  Frontend Web Developer
 
-## <font color="cyan" >I love to web development. Now I am learning reactJs and develop myself in javascrip<code/> </font>
-<br>
-<br>
+## <p color="cyan" >I love to web development. Now I am learning reactJs and develop myself in javascript </p>
+
 
 
 ## Technologies I Use
