@@ -2,11 +2,11 @@
 
 ##  Frontend Web Developer
 
+<img src="https://nasagifs.tumblr.com/post/28700724765" >
+
+
 ## <p color="cyan" >I love to web development. Now I am learning reactJs and develop myself in javascript </p>
 
-<div float="right"> 
-  <img src="https://nasagifs.tumblr.com/post/28700724765">
-  </di>
 
 
 ## Technologies I Use
