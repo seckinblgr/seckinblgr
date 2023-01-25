@@ -2,7 +2,7 @@
 
 ##  Frontend Web Developer
 
-<img src="https://nasagifs.tumblr.com/post/28700724765.gif" >
+<img src="https://nasagifs.tumblr.com/post/28700724765.gif" width="200" height="150">
 
 
 ## <p color="cyan" >I love to web development. Now I am learning reactJs and develop myself in javascript </p>
