@@ -1,6 +1,6 @@
 ### Hi there, I'm Seckin.  
 
-##  Frontend  Developer
+##  Software  Developer
 
 <img src="https://nasagifs.tumblr.com/post/28700724765.gif" width="200" height="150">
 
