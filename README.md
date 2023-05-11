@@ -5,7 +5,7 @@
 <img src="https://nasagifs.tumblr.com/post/28700724765.gif" width="200" height="150">
 
 
-## <p color="cyan" >I love to  development. Now I am learning reactJs and develop myself in Javascript. </p>
+## <p color="cyan" >I love to  development. Now I am learning reactJs ,react-native and develop myself in Javascript. </p>
 
 
 
