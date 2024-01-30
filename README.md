@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/seckinbulgur" target="blank"><img src="https://img.shields.io/twitter/follow/seckinbulgur?logo=twitter&style=for-the-badge" alt="seckinbulgur" /></a> </p>
 
-- I’m currently working on **I'm work as a system admin and manager in the IT department of a private company.**
+- I’m currently working  ** as a system admin and manager in the IT department of a private company.**
 
 - I’m currently learning **Backend and backend frameworks.**
 
